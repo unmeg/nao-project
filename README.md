@@ -1,0 +1,2 @@
+# nao-project
+Investigating NAOqi
